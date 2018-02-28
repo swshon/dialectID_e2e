@@ -31,16 +31,20 @@ Augementation was done by two different method. First is random segment of the i
 
 # Model definition
 Simple description of the DNN model:
-<img align="center" width="100" height="100" src="https://github.com/swshon/dialectID_e2e/blob/master/images/figure_network.png ">
+
+
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/figure_network.png ">
 
 we used four 1-dimensional CNN (1d-CNN) layers (40x5 - 500x7 - 500x1 - 500x1 filter sizes with 1-2-1-1 strides and the number of filters is 500-500-500-3000) and two FC layers (1500-600) that are connected with a Global average pooling layer which averages the CNN outputs to produce a fixed output size of 3000x1. 
 
 End-to-end DID accuracy by epoch
-![Image of Model](https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_aug.png | width=200)
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_aug.png">
+
 End-to-end DID accuracy by epoch using augmented dataset
-![Image of Model](https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_feat.png | width=200)
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_feat.png ">
+
 Performance comparison with and without Random Segmentation(RS)
-![Image of Model](https://github.com/swshon/dialectID_e2e/blob/master/images/random_segment.png | width=200)
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/random_segment.png ">
 
 
 # Performance evaluation 
