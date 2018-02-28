@@ -38,12 +38,18 @@ Simple description of the DNN model:
 we used four 1-dimensional CNN (1d-CNN) layers (40x5 - 500x7 - 500x1 - 500x1 filter sizes with 1-2-1-1 strides and the number of filters is 500-500-500-3000) and two FC layers (1500-600) that are connected with a Global average pooling layer which averages the CNN outputs to produce a fixed output size of 3000x1. 
 
 End-to-end DID accuracy by epoch
+
+
 <img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_aug.png">
 
 End-to-end DID accuracy by epoch using augmented dataset
+
+
 <img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_feat.png ">
 
 Performance comparison with and without Random Segmentation(RS)
+
+
 <img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/random_segment.png ">
 
 
