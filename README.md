@@ -80,7 +80,7 @@ End-to-End model with speed and volume perturbation+random segmention (Spectrogr
 Offline test can be done in offline_test.ipynb code on our pretrained model. Specify wav file you want to identify Arabic dialect by modifying FILENAME variable.
 
 ```
-FILENAME = ['/data/test/EGY_00001.wav']
+FILENAME = ['/data/test/NOR_00001.wav']
 ```
 
 Result can be shown like below bar plot of likelihood on 5 Arabic dialects.
