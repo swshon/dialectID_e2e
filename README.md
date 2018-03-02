@@ -1,11 +1,11 @@
 # End-to-end Dialect Identification (implementation on MGB-3 Arabic dialect dataset)
-Tensorflow implementation of End-to-End dialect identificaion in Arabic. If you are familiar with Language/Speaker identificatio/verification, it can be easily modified to another dialect, language or even speaker identification/verification tasks.
+Tensorflow implementation of End-to-End dialect identificaion in Arabic. If you are familiar with Language/Speaker identification/verification, it can be easily modified to another dialect, language or even speaker identification/verification tasks.
 
-# Requirment
+# Requirement
 * Python, tested on 2.7.6
 * Tensorflow > v1.0
-* python library > sox, tested on 1.3.2
-* python library > librosa, tested on 0.5.1 
+* python library sox, tested on 1.3.2
+* python library librosa, tested on 0.5.1 
 
 # Data list format
 datalist consist of (location of wavfile) and (label in digit).
