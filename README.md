@@ -88,3 +88,11 @@ Result can be shown like below bar plot of likelihood on 5 Arabic dialects.
 ![Image of offline result plot](https://github.com/swshon/dialectID_e2e/blob/master/images/offline_plot.png)
 
 
+# Relevant publication
+[1] Suwon Shon, Ahmed Ali, James Glass,<br />
+Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Recognition,<br />
+Will be appeared at *Odyssey 2018*<br />
+https://arxiv.org/abs/1803.04567<br />
+
+
+
