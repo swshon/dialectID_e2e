@@ -94,5 +94,12 @@ Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Rec
 Will be appeared at *Odyssey 2018*<br />
 https://arxiv.org/abs/1803.04567<br />
 
+# Citing
 
+    @article{shon2018convolutional,
+      author = {Shon, Suwon and Ali, Ahmed and Glass, James},
+      journal = {ArXiv e-prints arXiv:1803.04567},
+      title = {{Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Recognition}},
+      year = {2018}
+    }
 
