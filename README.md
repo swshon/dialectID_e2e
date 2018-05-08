@@ -40,12 +40,12 @@ we used four 1-dimensional CNN (1d-CNN) layers (40x5 - 500x7 - 500x1 - 500x1 fil
 End-to-end DID accuracy by epoch
 
 
-<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_aug.png">
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_feat.png">
 
 End-to-end DID accuracy by epoch using augmented dataset
 
 
-<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_feat.png ">
+<img align="center" width="400" src="https://github.com/swshon/dialectID_e2e/blob/master/images/accuracy_aug.png ">
 
 Performance comparison with and without Random Segmentation(RS)
 
