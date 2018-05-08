@@ -8,8 +8,10 @@ Dialect identification can be done using SVM based classifier at here https://gi
 [1] Suwon Shon, Ahmed Ali, James Glass,<br />
 Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Recognition,<br />
 Will be appeared at *Odyssey 2018*<br />
-https://arxiv.org/abs/1803.04567<br />
-[2] Ahmed Ali et al., “Automatic dialect detection in Arabic broadcast speech,” in Interspeech, 2016, vol. 08–12–Sept, pp. 2934–2938.
+https://arxiv.org/abs/1803.04567<br /><br>
+[2] Ahmed Ali et al.
+Automatic dialect detection in Arabic broadcast speech
+Interspeech, 2016, vol. 08–12–Sept, pp. 2934–2938.
 
 
 # Citing
