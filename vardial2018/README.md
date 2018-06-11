@@ -1,5 +1,5 @@
-# Speaker embeddings for VarDial 2018 challenge
-The speaker embeddings are extracted from the last hidden layer which has 600 activations. <br>
+# Dialect embeddings for VarDial 2018 challenge
+The dialect embeddings are extracted from the last hidden layer which has 600 activations. <br>
 VarDial 2018 challenge information can be found at http://alt.qcri.org/vardial2018/ <br>
 Dialect identification can be done using SVM based classifier at here https://github.com/qcri/dialectID<br>
 
