@@ -91,15 +91,18 @@ Result can be shown like below bar plot of likelihood on 5 Arabic dialects.
 # Relevant publication
 [1] Suwon Shon, Ahmed Ali, James Glass,<br />
 Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Recognition,<br />
-Will be appeared at *Odyssey 2018*<br />
+Proc. Odyssey 2018 The Speaker and Language Recognition Workshop, 98-104 <br />
 https://arxiv.org/abs/1803.04567<br />
 
 # Citing
 
-    @article{shon2018convolutional,
-      author = {Shon, Suwon and Ali, Ahmed and Glass, James},
-      journal = {ArXiv e-prints arXiv:1803.04567},
-      title = {{Convolutional Neural Networks and Language Embeddings for End-to-End Dialect Recognition}},
-      year = {2018}
+    @inproceedings{Shon2018,
+      author={Suwon Shon and Ahmed Ali and James Glass},
+      title={Convolutional Neural Network and Language Embeddings for End-to-End Dialect Recognition	},
+      year=2018,
+      booktitle={Proc. Odyssey 2018 The Speaker and Language Recognition Workshop},
+      pages={98--104},
+      doi={10.21437/Odyssey.2018-14},
+      url={http://dx.doi.org/10.21437/Odyssey.2018-14}
     }
 
