@@ -39,8 +39,10 @@ python ./scripts/train_e2e_custom.py e2e_model 0.001 40 False aug_logmel_fft400_
 python ./scripts/train_e2e_custom.py e2e_model_exshort200_long 0.001 40 False aug_logmel_fft400_hop160_vad_cmvn_exshort200 4000000 4
 
 
-
-
+## Extract framelevel embedding
+python ./scripts/extract_framelevel_embeddings.py --wavlist data/test.txt --outputlayer
+python ./scripts/extract_framelevel_embeddings.py --wavlist data/dev.txt --outputlayer
+python ./scripts/extract_framelevel_embeddings.py --wavlist data/train.txt --outputlayer
 
 
 
